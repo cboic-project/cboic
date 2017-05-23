@@ -1,0 +1,4 @@
+# List of Cboic IPv4 nodes sorted by 30 day availability, block height and version.
+
+127.0.0.1:7111
+194.1.239.13:7111
